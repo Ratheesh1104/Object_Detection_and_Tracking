@@ -1,4 +1,4 @@
-# Object Detection, Tracking, and Counting Using OpenCV
+# Object Detection and Tracking Using OpenCV
 
 This project presents a Python-based solution for detecting, tracking, and counting moving objects in video footage captured from a static camera. It leverages OpenCV’s background subtraction technique in combination with a custom centroid-based tracking algorithm to assign persistent IDs and accurately count unique moving objects in real time.
 
